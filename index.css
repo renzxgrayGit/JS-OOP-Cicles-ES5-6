@@ -1,0 +1,40 @@
+.circle {
+    position: absolute;
+    border-radius: 50%;
+    background-color: #CCE8CC;
+}
+
+#colorChoices div, button {
+    display: inline-block;
+    margin: 10px;
+}
+
+#green {
+    background-color: green;
+    border: 1px solid black;
+    height: 20px;
+    width: 100px;
+}
+#blue {
+    background-color: blue;
+    border: 1px solid black;
+    height: 20px;
+    width: 100px;
+}
+#red {
+    background-color: red;
+    border: 1px solid black;
+    height: 20px;
+    width: 100px;
+}
+
+#reset {
+    vertical-align: top;
+    position: relative;
+    left: 800px;
+    background-color: #cf2a27;
+    border: none;
+    padding: 5px 10px;
+    box-shadow: 3px 3px #200606;
+    color: white;
+}
